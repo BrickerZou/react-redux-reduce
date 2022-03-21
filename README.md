@@ -1,2 +1,2 @@
 # react-redux-reduce
-react-redux-reduce结合案例
+react-redux-reduce结合案例crud
